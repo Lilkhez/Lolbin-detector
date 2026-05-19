@@ -1,4 +1,3 @@
-# rules.py
 # This file contains all LOLBIN detection rules.
 # Each entry defines a binary, its MITRE ATT&CK mapping,
 # and the suspicious command line patterns to look for.
