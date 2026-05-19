@@ -119,7 +119,3 @@ MITRE ATT&CK — the framework used to categorise every detection in this tool
 EVTX Attack Samples — the real attack logs used to test this tool
 Sysmon — the Windows monitoring tool that generates the logs this tool reads
 
-
-Author
-Built by [Your Name] as a detection engineering portfolio project.
-[LinkedIn] | [GitHub]
